@@ -1313,7 +1313,7 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     font-family: 'Brandon reg', sans-serif;
+     font-family: 'Poppins reg', sans-serif;
      color: #9b9b9b;
      font-size: 20px;
      line-height: 26px;
@@ -1390,7 +1390,7 @@
    }
    
    .content-text {
-     font-family: 'Brandon reg', sans-serif;
+     font-family: 'Poppins reg', sans-serif;
      color: #222;
      font-size: 20px;
      line-height: 30px;
@@ -1476,14 +1476,14 @@
      flex-direction: column;
      border-radius: 8px;
      background-color: #f8f8f8;
-     font-family: 'Brandon med', sans-serif;
+     font-family: 'Poppins med', sans-serif;
      color: #222;
      font-size: 12px;
      line-height: 20px;
    }
    
    .text-block-2 {
-     font-family: 'Brandon med', sans-serif;
+     font-family: 'Poppins med', sans-serif;
      color: #1d3557;
      font-size: 20px;
      line-height: 20px;
@@ -1546,7 +1546,7 @@
    }
    
    .cs-desc {
-     font-family: 'Brandon reg', sans-serif;
+     font-family: 'Poppins reg', sans-serif;
      color: #969696;
      font-size: 20px;
      line-height: 30px;
@@ -1596,7 +1596,7 @@
    }
    
    .text-block-5 {
-     font-family: 'Brandon med', sans-serif;
+     font-family: 'Poppins med', sans-serif;
      color: #1d3557;
      font-size: 20px;
      text-decoration: none;
@@ -1628,13 +1628,13 @@
    }
    
    .text-block-6 {
-     font-family: 'Brandon reg', sans-serif;
+     font-family: 'Poppins reg', sans-serif;
      color: #676;
      font-size: 18px;
    }
    
    .text-block-7 {
-     font-family: 'Brandon reg', sans-serif;
+     font-family: 'Poppins reg', sans-serif;
      color: #222;
      font-size: 20px;
    }
@@ -2777,36 +2777,36 @@
      font-display: swap;
    }
    @font-face {
-     font-family: 'Brandon blk';
-     src: url('https://uploads-ssl.webflow.com/63d7999d3e2c065032d8866f/63e1e987f3d2d05f2ab1790e_Brandon_blk.otf') format('opentype');
+     font-family: 'Poppins blk';
+     src: url('https://uploads-ssl.webflow.com/63d7999d3e2c065032d8866f/63e1e987f3d2d05f2ab1790e_Poppins_blk.otf') format('opentype');
      font-weight: 400;
      font-style: normal;
      font-display: swap;
    }
    @font-face {
-     font-family: 'Brandon bld';
-     src: url('https://uploads-ssl.webflow.com/63d7999d3e2c065032d8866f/63e1e987a71b6b7ac9eae530_Brandon_bld.otf') format('opentype');
+     font-family: 'Poppins bld';
+     src: url('https://uploads-ssl.webflow.com/63d7999d3e2c065032d8866f/63e1e987a71b6b7ac9eae530_Poppins_bld.otf') format('opentype');
      font-weight: 400;
      font-style: normal;
      font-display: swap;
    }
    @font-face {
-     font-family: 'Brandon reg it';
-     src: url('https://uploads-ssl.webflow.com/63d7999d3e2c065032d8866f/63e1e987dd964a2179af6ea0_Brandon_reg_it.otf') format('opentype');
+     font-family: 'Poppins reg it';
+     src: url('https://uploads-ssl.webflow.com/63d7999d3e2c065032d8866f/63e1e987dd964a2179af6ea0_Poppins_reg_it.otf') format('opentype');
      font-weight: 400;
      font-style: normal;
      font-display: swap;
    }
    @font-face {
-     font-family: 'Brandon med';
-     src: url('https://uploads-ssl.webflow.com/63d7999d3e2c065032d8866f/63e1e98777ff373f7374d21a_Brandon_med.otf') format('opentype');
+     font-family: 'Poppins med';
+     src: url('https://uploads-ssl.webflow.com/63d7999d3e2c065032d8866f/63e1e98777ff373f7374d21a_Poppins_med.otf') format('opentype');
      font-weight: 400;
      font-style: normal;
      font-display: swap;
    }
    @font-face {
-     font-family: 'Brandon reg';
-     src: url('https://uploads-ssl.webflow.com/63d7999d3e2c065032d8866f/63e1e987acf046cd6c22e878_Brandon_reg.otf') format('opentype');
+     font-family: 'Poppins reg';
+     src: url('https://uploads-ssl.webflow.com/63d7999d3e2c065032d8866f/63e1e987acf046cd6c22e878_Poppins_reg.otf') format('opentype');
      font-weight: 400;
      font-style: normal;
      font-display: swap;

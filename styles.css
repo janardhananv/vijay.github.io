@@ -1025,13 +1025,13 @@
    }
    
    .nav-link.active {
-     font-family: 'Basier circle', sans-serif;
+     font-family: 'Josefin Slab', serif;
      color: #1d3557;
      font-size: 14px;
    }
    
    .nav-link.inactive {
-     font-family: 'Basier circle', sans-serif;
+     font-family: 'Josefin Slab', serif;
      color: #969595;
      font-size: 14px;
    }

@@ -1313,7 +1313,7 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     font-family: 'Poppins reg', sans-serif;
+     font-family: 'Josefin Slab', serif;
      color: #9b9b9b;
      font-size: 20px;
      line-height: 26px;
@@ -1390,7 +1390,7 @@
    }
    
    .content-text {
-     font-family: 'Poppins reg', sans-serif;
+     font-family: 'Josefin Slab', serif;
      color: #222;
      font-size: 20px;
      line-height: 30px;
@@ -1546,7 +1546,7 @@
    }
    
    .cs-desc {
-     font-family: 'Poppins reg', sans-serif;
+     font-family: 'Josefin Slab', serif;
      color: #969696;
      font-size: 20px;
      line-height: 30px;
@@ -1628,13 +1628,13 @@
    }
    
    .text-block-6 {
-     font-family: 'Poppins reg', sans-serif;
+     font-family: 'Josefin Slab', serif;
      color: #676;
      font-size: 18px;
    }
    
    .text-block-7 {
-     font-family: 'Poppins reg', sans-serif;
+     font-family: 'Josefin Slab', serif;
      color: #222;
      font-size: 20px;
    }

@@ -1393,6 +1393,7 @@
    
    .content-text {
      font-family: 'Josefin Slab', serif;
+     font-weight: 700; /* Bold */
      color: #222;
      font-size: 20px;
      line-height: 30px;

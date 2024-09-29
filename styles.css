@@ -1316,6 +1316,7 @@
      -ms-flex-align: center;
      align-items: center;
      font-family: 'Josefin Slab', serif;
+     font-weight: 600;
      color: #343434;
      font-size: 20px;
      line-height: 26px;
@@ -1552,6 +1553,7 @@
    
    .cs-desc {
      font-family: 'Josefin Slab', serif;
+     font-weight: 600;
      color: #343434;
      font-size: 20px;
      line-height: 30px;

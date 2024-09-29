@@ -1026,12 +1026,14 @@
    
    .nav-link.active {
      font-family: 'Josefin Slab', serif;
+     font-weight: 700; /* Bold */
      color: #1d3557;
      font-size: 14px;
    }
    
    .nav-link.inactive {
      font-family: 'Josefin Slab', serif;
+     font-weight: 700; /* Bold */
      color: #969595;
      font-size: 14px;
    }

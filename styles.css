@@ -1173,7 +1173,7 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     color: #9b9b9b;
+     color: #343434;
      font-size: 20px;
      line-height: 26px;
      text-align: center;
@@ -1314,7 +1314,7 @@
      -ms-flex-align: center;
      align-items: center;
      font-family: 'Josefin Slab', serif;
-     color: #9b9b9b;
+     color: #343434;
      font-size: 20px;
      line-height: 26px;
      text-align: center;
@@ -1547,7 +1547,7 @@
    
    .cs-desc {
      font-family: 'Josefin Slab', serif;
-     color: #969696;
+     color: #343434;
      font-size: 20px;
      line-height: 30px;
    }

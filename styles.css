@@ -1479,7 +1479,8 @@
      flex-direction: column;
      border-radius: 8px;
      background-color: #f8f8f8;
-     font-family: 'Poppins med', sans-serif;
+     font-family: 'Josefin Slab', serif;
+     font-weight: 700; /* Bold */
      color: #222;
      font-size: 12px;
      line-height: 20px;

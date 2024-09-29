@@ -2936,14 +2936,14 @@ figcaption {
   color: #1d3557;
   font-family: 'Josefin Slab', serif;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .nav-link.inactive {
   color: #969595;
   font-family: 'Josefin Slab', serif;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .nav-link.inactive:hover {

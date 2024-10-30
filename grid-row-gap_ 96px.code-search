@@ -1,0 +1,19 @@
+# Query: grid-row-gap: 96px
+# ContextLines: 1
+
+3 results - 3 files
+
+styles.css:
+  1352       grid-column-gap: 32px;
+  1353:      grid-row-gap: 96px;
+  1354       -ms-grid-columns: minmax(200px, 1fr) 1fr;
+
+assets/old files/cssv1:
+  3526      grid-column-gap: 32px;
+  3527:     grid-row-gap: 96px;
+  3528      -ms-grid-columns: minmax(200px, 1fr) 1fr;
+
+Open Projects/010153/styles.css:
+  3123    grid-column-gap: 32px;
+  3124:   grid-row-gap: 96px;
+  3125    grid-template-rows: auto auto;

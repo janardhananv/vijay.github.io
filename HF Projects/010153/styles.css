@@ -3377,9 +3377,10 @@ figcaption {
   margin-bottom: 0;
   margin-left: 0;
   margin-right: auto;
-  font-family: Poppins, sans-serif;
-  font-size: 24px;
-  font-weight: 600;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 700; /* Bold weight */
+  font-size: 32px;
+  line-height: 40px;
 }
 
 .heading-3.product {
@@ -3439,6 +3440,16 @@ figcaption {
 
 .paragraph-3.p-det-2.challenges {
   width: auto;
+}
+
+.paragraph-3.url {
+  color: #7B7B7B;
+  text-decoration: none;
+}
+
+.paragraph-3.url:hover {
+  color: #1D3557;
+  text-decoration: underline;
 }
 
 .paragraph-3.p-det-2 {
@@ -3542,7 +3553,7 @@ figcaption {
 }
 
 .section-7 {
-  background-color: #f6fafe;
+  background-color: #EFEFEF;
   margin-top: 69px;
   padding-top: 40px;
   padding-bottom: 40px;
@@ -3560,8 +3571,7 @@ figcaption {
 
 .section-7.leftalignsec {
   margin-top: 0;
-  padding-bottom: 0;
-  padding-left: 40px;
+  padding-bottom: 48;
 }
 
 .section-7.leftalignsec-nogradient {
@@ -3572,7 +3582,14 @@ figcaption {
 }
 
 .heading-4 {
-  font-family: Poppins, sans-serif;
+  text-align: left;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: auto;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 700; /* Bold weight */
+  font-size: 24px;
+  line-height: 40px;
 }
 
 .image-23 {
@@ -3688,7 +3705,6 @@ figcaption {
 }
 
 .image-33 {
-  margin-top: 83px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -3818,8 +3834,9 @@ figcaption {
   }
 
   .section-5.paraset, .div-block-7 {
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-top: 80px; /* added for heading, changeif required */
+    margin-left: 320px;
+    margin-right: 320px;
   }
 
   .heading-3 {
@@ -3827,8 +3844,10 @@ figcaption {
   }
 
   .paragraph-3 {
-    font-family: Poppins, sans-serif;
-    font-weight: 500;
+    color: #696969;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400; /* Regular weight */
+    font-size: 18px;
   }
 
   .image-18 {
@@ -3855,7 +3874,8 @@ figcaption {
   }
 
   .section-7.leftalignsec-gradient, .section-7.leftalignsec, .section-7.leftalignsec-nogradient {
-    padding-left: 250px;
+    /*padding-left: 250px;*/
+    margin-top: 69px;
   }
 
   .image-23 {
@@ -3880,6 +3900,7 @@ figcaption {
   }
 
   .center-alight-para {
+
     font-family: Poppins, sans-serif;
     font-weight: 500;
   }

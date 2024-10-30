@@ -3524,7 +3524,7 @@ figcaption {
     align-self: auto;
     grid-auto-columns: 1fr;
     grid-column-gap: 32px;
-    grid-row-gap: 96px;
+    grid-row-gap: 160px;
     -ms-grid-columns: minmax(200px, 1fr) 1fr;
     grid-template-columns: minmax(200px, 1fr) 1fr;
     -ms-grid-rows: auto auto;

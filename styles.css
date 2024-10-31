@@ -1467,10 +1467,10 @@
 
    .content-text {
     font-family: 'Josefin Sans', sans-serif;
-    font-weight: 400; /* Bold weight */
-    font-size: 18px;
-    color: #626262;
-    line-height: 30px;
+    font-weight: 300; 
+    font-size: 21px;
+    color: #151515;
+    line-height: 35px;
     text-indent: 0px;
    }
    
@@ -1677,7 +1677,7 @@
    
    .text-block-5 {
      font-family: 'Josefin Sans', sans-serif;
-     font-weight: 500;
+     font-weight: 400;
      color: #1d3557;
      font-size: 18px;
      text-decoration: none;

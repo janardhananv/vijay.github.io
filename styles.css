@@ -1674,7 +1674,9 @@
      display: -ms-flexbox;
      display: flex;
    }
-   
+   .content-header{
+    font-weight: 400;
+   }
    .text-block-5 {
      font-family: 'Josefin Sans', sans-serif;
      font-weight: 400;
@@ -1764,11 +1766,7 @@
      }
    
      .section-2.hero-section {
-       height: 800px;
-     }
-   
-     .section-2.hero-section {
-       height: 600px;
+       height: 500px;
      }
    
      .section-2.about {

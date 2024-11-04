@@ -2092,7 +2092,7 @@ textarea.w-input, textarea.w-select {
 }
 
 body {
-  color: #1a1b1f;
+  color: #383838;
   font-family: Montserrat, sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -3377,8 +3377,8 @@ figcaption {
   margin-bottom: 0;
   margin-left: 0;
   margin-right: auto;
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-weight: 700; /* Bold weight */
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600; /* Bold weight */
   font-size: 32px;
   line-height: 40px;
 }
@@ -3586,8 +3586,8 @@ figcaption {
   margin-bottom: 0;
   margin-left: 0;
   margin-right: auto;
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-weight: 700; /* Bold weight */
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 500; /* Bold weight */
   font-size: 24px;
   line-height: 40px;
 }
@@ -3844,10 +3844,11 @@ figcaption {
   }
 
   .paragraph-3 {
-    color: #696969;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 400; /* Regular weight */
-    font-size: 18px;
+    color: #2f2f2f;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300; /* Regular weight */
+    font-size: 22px;
+    line-height: 32px;
   }
 
   .image-18 {

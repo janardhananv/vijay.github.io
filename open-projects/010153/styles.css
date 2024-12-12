@@ -2092,7 +2092,7 @@ textarea.w-input, textarea.w-select {
 }
 
 body {
-  color: #1a1b1f;
+  color: #383838;
   font-family: Montserrat, sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -3377,9 +3377,10 @@ figcaption {
   margin-bottom: 0;
   margin-left: 0;
   margin-right: auto;
-  font-family: Poppins, sans-serif;
-  font-size: 24px;
-  font-weight: 600;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600; /* Bold weight */
+  font-size: 32px;
+  line-height: 40px;
 }
 
 .heading-3.product {
@@ -3401,15 +3402,15 @@ figcaption {
 .paragraph-3.p-det-1 {
   width: auto;
   text-align: left;
-  font-size: 14px;
-  font-weight: 500;
+  font-size: 22px;
+  font-weight: 300;
   display: block;
 }
 
 .paragraph-3.p-det-1.challenges, .paragraph-3.p-det-1.challenges-copy, .paragraph-3.p-det-1.painpoints {
   width: auto;
-  font-size: 14px;
-  font-weight: 500;
+  font-size: 20px;
+  font-weight: 300;
 }
 
 .paragraph-3.prod {
@@ -3418,11 +3419,17 @@ figcaption {
   padding-bottom: 120px;
 }
 
+.quote-user {
+  font-size: 20px;
+  font-weight: 300;
+  font-style: italic;
+}
 .paragraph-3.p-det-2 {
+  color: #3B3B3B;
   width: auto;
   text-align: left;
-  font-size: 14px;
-  font-weight: 600;
+  font-size: 20px;
+  font-weight: 400;
   display: block;
 }
 
@@ -3455,7 +3462,7 @@ figcaption {
 .paragraph-3.secsub {
   color: #828282;
   padding-top: 0;
-  font-size: 14px;
+  font-size: 20px;
 }
 
 .image-18 {
@@ -3572,7 +3579,14 @@ figcaption {
 }
 
 .heading-4 {
-  font-family: Poppins, sans-serif;
+  text-align: left;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: auto;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 500; /* Bold weight */
+  font-size: 24px;
+  line-height: 40px;
 }
 
 .image-23 {
@@ -3700,8 +3714,9 @@ figcaption {
 
 .paragraph-4 {
   padding-right: 194px;
-  font-family: Poppins, sans-serif;
-  font-size: 16px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: normal;
+  font-size: 20px;
 }
 
 .div-block-16 {
@@ -3818,17 +3833,22 @@ figcaption {
   }
 
   .section-5.paraset, .div-block-7 {
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-top: 80px; /* added for heading, changeif required */
+    margin-left: 320px;
+    margin-right: 320px;
   }
 
   .heading-3 {
     margin-left: 0;
   }
+ 
 
   .paragraph-3 {
-    font-family: Poppins, sans-serif;
-    font-weight: 500;
+    color: #2f2f2f;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300; /* Regular weight */
+    font-size: 22px;
+    line-height: 32px;
   }
 
   .image-18 {
